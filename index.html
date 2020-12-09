@@ -21,9 +21,6 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
       <a class="navbar-brand" href="#">ACRA Mail to issue</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
     </div>
   </nav>
 
@@ -31,12 +28,24 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h1 class="mt-5">A Bootstrap 4 Starter Template</h1>
-        <p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
-        <ul class="list-unstyled">
-          <li>Bootstrap 4.5.3</li>
-          <li>jQuery 3.5.1</li>
-        </ul>
+        <h1 class="mt-5">ACRA Mail to issue</h1>
+        <div class="row">
+            <div class="col-sm">
+              <div class="form-group">
+                <label for="jsonTextArea">Paste Json</label>
+                <textarea class="form-control" id="jsonTextArea" rows="3"></textarea>
+              </div>
+              <button onclick="beautify()" class="btn btn-primary">Convert</button>
+            </div>
+            <div class="col-sm">
+              <label for="resultCard">Result</label>
+              <div class="card" id="resultCard">
+                <div class="card-body text-left">
+                  <pre id="resultText"></pre>
+                </div>
+              </div>
+            </div>
+        </div>
       </div>
     </div>
   </div>
@@ -44,6 +53,7 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="formControl.js"></script>
 
 </body>
 

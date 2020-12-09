@@ -2,56 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb64ab8c-687b-405c-9ac2-fe79ab873236" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archives.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/authors.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/categories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/pygment.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/typogrify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/css/wide.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/Yanone_Kaffeesatz_400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/Yanone_Kaffeesatz_400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/Yanone_Kaffeesatz_400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/Yanone_Kaffeesatz_400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/Yanone_Kaffeesatz_400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/fonts/font.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/aboutme.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/bitbucket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/delicious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/gitorious.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/gittip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/google-groups.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/google-plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/hackernews.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/lastfm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/reddit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/rss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/slideshare.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/speakerdeck.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/stackoverflow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/vimeo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme/images/icons/youtube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/publishconf.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/formControl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,11 +41,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607551395759</updated>
-      <workItem from="1607551398159" duration="482000" />
+      <workItem from="1607551398159" duration="2041000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
