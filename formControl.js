@@ -5,7 +5,7 @@ function beautify() {
     const rawExceptions = json["exceptions"];
     const exceptions = rawExceptions.substring(1, json["exceptions"].length-1).split(",");
 
-    output += "**Smartphone (please complete the following information):**\n";
+    output += "**Smartphone:**\n";
     output += "- Device: " +  json["device"] + "\n";
     output += "- OS: " +  json["os"] + "\n";
     output += "- Rooted: Maybe\n";
